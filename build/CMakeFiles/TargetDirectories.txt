@@ -1,0 +1,3 @@
+D:/5th-Semester/PROJECTS/OS/Multithread_DownloadManager/build/CMakeFiles/download_manager.dir
+D:/5th-Semester/PROJECTS/OS/Multithread_DownloadManager/build/CMakeFiles/ALL_BUILD.dir
+D:/5th-Semester/PROJECTS/OS/Multithread_DownloadManager/build/CMakeFiles/ZERO_CHECK.dir
